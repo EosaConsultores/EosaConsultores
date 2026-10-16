@@ -15,7 +15,7 @@
 
 Este es el perfil de GitHub del equipo de desarrollo de **EOSA Consultores**. Aquí centralizamos las herramientas y proyectos web desarrollados de forma interna.
 
-> ⚠️ Los repositorios de este perfil son de **uso interno**. Por favor, NO compartas accesos ni contenido fuera del equipo.
+> ⚠️ Los repositorios de este perfil son de **uso interno**.
 
 <br/>
 
